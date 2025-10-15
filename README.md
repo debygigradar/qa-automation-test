@@ -132,7 +132,8 @@ When you’re done:
    - Your test strategy  
    - Selector approach  
    - Any issues or fallbacks used  
-3. Invite deby@gigradar.io to your GitHub repo.
+3. Invite ayu.devi@gigradar.io and deby@gigradar.io to your GitHub repo.
+4. Once you're done, please let Ayu know so we can review it shortly.
 
 Thank you for taking the time to complete this assessment 🙏  
 We’re looking forward to seeing how you structure your tests and handle real-world web automation challenges.
