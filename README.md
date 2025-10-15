@@ -1,4 +1,4 @@
-# 🧪 Senior QA Automation Assessment (Playwright + TypeScript)
+# 🧪 QA Automation Assessment (Playwright + TypeScript)
 
 Hi 👋  
 
