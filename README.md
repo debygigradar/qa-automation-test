@@ -2,7 +2,7 @@
 
 Hi 👋  
 
-Thank you for your interest in joining our team as a **Senior QA Automation Engineer**.  
+Thank you for your interest in joining our team as a **QA Automation Engineer**.  
 This short practical test is designed to evaluate your hands-on skills with **Playwright**, focusing on test design, stability, and code quality.
 
 Please read carefully and submit your work following the instructions below.
